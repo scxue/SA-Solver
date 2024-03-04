@@ -1,8 +1,7 @@
 # SA-Solver
 Official code for SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models (NeurIPS 2023)
 <div align="center">
-  <a href="https://arxiv.org/pdf/2309.05019.pdf"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
-  <a href="https://github.com/PixArt-alpha/PixArt-alpha/blob/master/diffusion/sa_solver_diffusers.py"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
+  <a href="https://arxiv.org/pdf/2309.05019.pdf"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv">
 </div>
 
 > [**SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models (Neurips 2023)**](https://arxiv.org/pdf/2309.05019.pdf)<br>
@@ -56,7 +55,7 @@ tau_func = lambda t: 1
 
 # Acknowledgement
 
-Our code is based [DPM-Solver](https://github.com/LuChengTHU/dpm-solver) and [UniPC](https://github.com/wl-zhao/UniPC).
+Our code is based on [DPM-Solver](https://github.com/LuChengTHU/dpm-solver) and [UniPC](https://github.com/wl-zhao/UniPC).
 
 # Citation
 
